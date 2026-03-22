@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "base_track": "Plazma",
+  "base_artist": "Kenshi Yonezu",
+  "createdAt": "2026-03-22T04:05:31.104208Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Salaan (feat. Goriong Talas, Anygma, Sayadd, Dhictah, Plazma, Emar Industriya)",
+      "artist": "Batas",
+      "has_synced": false,
+      "path": "select/01_Salaan_(feat._Goriong_Talas,_Anygma,_Sayadd,_Dhictah,_Plazma,_Emar_Industriya)_Batas.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Plazma",
+      "artist": "Mamá Vudú",
+      "has_synced": true,
+      "path": "select/02_Plazma_Mamá_Vudú.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Plazma",
+      "artist": "Kenshi Yonezu",
+      "has_synced": false,
+      "path": "select/03_Plazma_Kenshi_Yonezu.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Plazma",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/04_Plazma_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Plazma",
+      "artist": "Yonezu, Kenshi",
+      "has_synced": true,
+      "path": "select/05_Plazma_Yonezu,_Kenshi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Plazma",
+      "artist": "Kenshi Yonezu",
+      "has_synced": false,
+      "path": "select/06_Plazma_Kenshi_Yonezu.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Plazma",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/07_Plazma_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Plazma (Mama Vudu)",
+      "artist": "Drogatones",
+      "has_synced": false,
+      "path": "select/08_Plazma_(Mama_Vudu)_Drogatones.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Plazma",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/09_Plazma_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Plazma Rose",
+      "artist": "Sadie Sink",
+      "has_synced": true,
+      "path": "select/10_Plazma_Rose_Sadie_Sink.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "PLAZMA",
+      "artist": "美里",
+      "has_synced": true,
+      "path": "select/11_PLAZMA_美里.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Plazma",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_Plazma_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Plazma",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_02_Plazma_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Plazma",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_03_Plazma_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Plazma",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_04_Plazma_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Plazma",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_05_Plazma_米津玄師.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Plazma",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/localdb_01_Plazma_Kenshi_Yonezu.lrc",
+      "repo_name": "fp3F6TqBsAU"
+    }
+  ]
+}
